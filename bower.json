@@ -1,0 +1,18 @@
+{
+  "name": "parallax-js",
+  "version": "1.2.2",
+  "homepage": "http://pixelcog.com/parallax.js/",
+  "authors": [
+    "pixelcog"
+  ],
+  "description": "cloned repo, version applies to pe repo, not the lib.",
+  "main": "parallax.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
